@@ -1,0 +1,41 @@
+.link {
+	font-family: 'Barlow Condensed', sans-serif;
+	font-weight: 700;
+	color: #242942;
+	font-size: 15px;
+}
+
+a {
+	color: #242942;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+}
+
+li {
+	margin: 0;
+}
+
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 64px;
+	margin-right: 165px;
+	margin-left: 165px;
+	align-items: center;
+	background-color: red;
+}
+
+.logo {
+	width: 32px;
+	height: 32px;
+}
+
+.link-list {
+	display: flex;
+	gap: 42px;
+	align-items: center;
+	background-color: blue;
+}
